@@ -1,5 +1,7 @@
 # 🧠 Memo – ETHGlobal Hackathon Submission
 
+> Built at the ETHGlobal SpaceWarp hackathon by a team of 3. I wrote the smart contracts, the backend and much of the React frontend.
+
 **Memo** is a blockchain-based platform built during the ETHGlobal SpaceWarp Hackathon. It enables digital creators to securely publish projects, monetize via token sales, and control access to their content using token-gated permissions.
 
 ## 🔗 Live Showcase
